@@ -1,0 +1,17 @@
+{
+    "curly"		: true,
+    "camelcase"	: true,
+    "es3" 		: true,
+	"forin"		: true,
+	"freeze"	: true,
+	"immed"		: true,
+	"indent"	: 4,
+	"newcap"	: true,
+	"nonbsp"	: true,
+	"quotmark"	: "single",
+	"unused"	: true,
+	"expr"		: true,
+	"supernew"	: true,
+	"browser"	: true,
+	"jquery"	: true
+}

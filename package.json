@@ -1,0 +1,27 @@
+{
+  "name": "TreedBack",
+  "version": "0.0.0",
+  "description": "The tree of feedback.",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polybuildr/treedback.git"
+  },
+  "author": "Vivek Ghaisas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polybuildr/treedback/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.2",
+    "gulp-rename": "~1.2.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.3.0",
+    "gulp-jshint": "~1.6.1",
+    "gulp-sass": "~0.7.1",
+    "gulp-jscs": "~0.5.0",
+    "gulp-minify-css": "~0.3.4"
+  }
+}
